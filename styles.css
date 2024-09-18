@@ -13,8 +13,8 @@ header{
 }
 .chamada{
     background-color: rgb(255, 187, 0);
-    padding-bottom: 80px;
-    padding-top: 80px;
+    padding-bottom: 30px;
+    padding-top: 30px;
     display: flex;
     justify-content: center;
 }
