@@ -2,6 +2,7 @@ body{
     background-color: black;
     color: white;
     margin: 0px;
+    font-family: "Comic Neue", cursive;
 }
 header{
     border-bottom: solid 2px rgb(211, 155, 0);
@@ -19,4 +20,12 @@ section{
 
 .chamada-texto{
     margin-right: 5%;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
 }
